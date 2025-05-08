@@ -17,7 +17,7 @@ I am Kyuka Ibrahim, the philomath. I like solving problems and I hope you like m
   <img alt="Python" src="https://img.shields.io/badge/Python-DD0031?logo=python&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img alt="Golang" src="https://img.shields.io/badge/Golang-000000?logo=go&logoColor=white&style=for-the-badge" />
+  <img alt="Golang" src="https://img.shields.io/badge/Golang-239120?logo=go&logoColor=white&style=for-the-badge" />
 </p>
 
 - I’m currently a student at <a href="https://www.alxafrica.com">ALX</a>. 
